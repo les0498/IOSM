@@ -1,3 +1,21 @@
-# smart-mobile-programming
+# IOSM(Information Of Sang Myung)
 2022-1 스마트모바일프로그래밍 팀프로젝트 (IOSM)
-IOSM : Information Of Sang Myung
+ 
+학교 학생들을 위한 가이드 앱으로써 새내기나 복학생들 뿐만 아니라 학교 학생들 모두가 사용 할 수 있는 학교 가이드 앱
+
+<h2>💁 Service introduce</h2> <br>
+안드로이드 기반의 학교 생활 가이드 앱을 개발하였습니다. IOSM은(information of 학교이름)의 줄임말로 학교에서의 다양한 정보들을 제공한다는 의미를 두고 있습니다. <br><br>
+
+학교 지리를 잘 모르는 학생들을 위한 학교 전체지도 및 층별 안내도를 볼 수 있으며, 과제 기간을 기록 해 확인할 수 있는 to-do 리스트의 기능이 있습니다. 그 밖에도 학교 생활을 하면서 얻을 수 있는 다양한 팁들과 학교 주변 식당 지도를 탑재해 그 날 먹고 싶은 음식이 고민될 때 이 기능을 사용하여 고민을 해결 할 수 있도록 만들어봤습니다. 
+
+<h2>🛠 Tech Stack </h2> 
+Java, Android, Firebase, SQLite
+<br><br>
+
+## 담당한 기능
+
+- **메인화면** UI
+- **일정** 추가 및 가져오기 기능
+- 캘린더 기능
+- **SQLite** database 로 **일정 기록** 관리
+- 식당 위치 **마커** **표시** 기능
